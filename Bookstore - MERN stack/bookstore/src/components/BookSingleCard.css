@@ -1,0 +1,75 @@
+/* Replace Tailwind CSS classes with regular CSS */
+
+/* For the main container */
+.border-2 {
+    border: 2px solid #718096; /* Replace with your desired border color */
+    border-radius: 0.375rem; /* Adjust the border radius as needed */
+    padding: 1rem;
+    margin: 1rem;
+    position: relative;
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  .border-2:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Add shadow on hover */
+  }
+  
+  /* For the year tag */
+  .absolute {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    padding: 0.25rem 0.5rem;
+    background-color: #e53e3e; /* Replace with your desired background color */
+    color: #fff; /* Text color for the year tag */
+    border-radius: 0.375rem; /* Adjust the border radius as needed */
+  }
+  
+  /* For book ID */
+  .text-gray-500 {
+    color: #718096; /* Text color for book ID */
+    margin-top: 0.5rem;
+  }
+  
+  /* For icon and title */
+  .flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  
+  .text-2xl {
+    font-size: 1.5rem; /* Adjust the font size as needed */
+  }
+  
+  /* For icons */
+  .text-red-300 {
+    color: #e53e3e; /* Icon color */
+  }
+  
+  .text-blue-800 {
+    color: #1c64f2; /* Icon color */
+  }
+  
+  .text-green-800 {
+    color: #38a169; /* Icon color */
+  }
+  
+  .text-yellow-600 {
+    color: #d69e2e; /* Icon color */
+  }
+  
+  .text-red-600 {
+    color: #e53e3e; /* Icon color */
+  }
+  
+  /* For clickable icons */
+  .hover:text-black {
+    color: #000; /* Change color on hover */
+    cursor: pointer;
+  }
+  
+  /* You can adjust the font sizes, colors, and other styles as needed based on your design preferences. */
+  

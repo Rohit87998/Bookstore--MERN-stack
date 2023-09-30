@@ -1,0 +1,60 @@
+/* Replace Tailwind CSS classes with regular CSS */
+
+/* For the main container */
+.p-4 {
+    padding: 1rem;
+  }
+  
+  /* For the title */
+  .text-3xl {
+    font-size: 1.875rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* For the spinner */
+  /* You can add your spinner styles here */
+  
+  /* For the form container */
+  .flex-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .border-2 {
+    border: 2px solid #1fb6ff; /* Replace with your desired border color */
+    border-radius: 0.75rem; /* Adjust the border radius as needed */
+    padding: 1rem;
+    width: 600px; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the form horizontally */
+  }
+  
+  .text-2xl {
+    font-size: 1.5rem; /* Adjust the font size as needed */
+    margin-bottom: 1rem;
+  }
+  
+  /* For the confirmation message */
+  .text-2xl {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* For the "Yes, Delete it" button */
+  button {
+    padding: 1rem 2rem;
+    background-color: #e53e3e; /* Replace with your desired button color */
+    margin-top: 2rem;
+    color: #fff; /* Text color on the button */
+    border: none;
+    border-radius: 0.375rem; /* Adjust the border radius as needed */
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #c53030; /* Replace with your desired button hover color */
+  }
+  
+  /* You can add more styles or adjust existing ones based on your design preferences */
+  

@@ -1,0 +1,47 @@
+/* Replace Tailwind CSS classes with regular CSS */
+
+/* For the main container */
+.p-4 {
+    padding: 1rem;
+  }
+  
+  /* For the title */
+  .text-3xl {
+    font-size: 1.875rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* For the book details container */
+  .flex-col {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .border-2 {
+    border: 2px solid #1fb6ff; /* Replace with your desired border color */
+    border-radius: 0.75rem; /* Adjust the border radius as needed */
+    padding: 1rem;
+  }
+  
+  .my-4 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .text-xl {
+    font-size: 1.25rem;
+    margin-right: 1rem;
+    color: #718096; /* Replace with your desired text color */
+  }
+  
+  /* For the spinner */
+  /* You can add your spinner styles here */
+  
+  /* For the back button */
+  /* You can add your back button styles here */
+  
+  /* For the book details */
+  /* You can add your book details styles here */
+  
+  
