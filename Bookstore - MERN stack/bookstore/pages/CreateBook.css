@@ -1,4 +1,4 @@
-/* Replace Tailwind CSS classes with regular CSS */
+
 
 /* For the main container */
 .p-4 {
@@ -12,10 +12,9 @@
     margin-bottom: 1rem;
   }
   
-  /* For the spinner */
-  /* You can add your spinner styles here */
+
   
-  /* For the form container */
+
   .flex-col {
     display: flex;
     flex-direction: column;
@@ -34,14 +33,14 @@
     margin-bottom: 1rem;
   }
   
-  /* For labels */
+
   .text-xl {
     font-size: 1.25rem;
     margin-right: 1rem;
     color: #718096; /* Replace with your desired text color */
   }
   
-  /* For input fields */
+ 
   input[type="text"],
   input[type="number"] {
     border: 2px solid #718096; /* Replace with your desired border color */
@@ -65,5 +64,5 @@
     background-color: #007acc; /* Replace with your desired button hover color */
   }
   
-  /* You can add more styles or adjust existing ones based on your design preferences */
+
   
