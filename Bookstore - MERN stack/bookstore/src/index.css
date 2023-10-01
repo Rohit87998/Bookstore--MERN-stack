@@ -1,8 +1,4 @@
-/* Replace Tailwind CSS classes with regular CSS */
 
-/* Add this to your global CSS file or component-specific CSS */
-
-/* For the 'table' element */
 table {
     width: 100%;
     border-collapse: separate;
@@ -74,5 +70,5 @@ table {
     margin-bottom: 2rem; /* Adjust the margin as needed */
   }
   
-  /* You can add more styles as needed for specific elements or components */
+ 
   
