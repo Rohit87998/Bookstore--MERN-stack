@@ -1,21 +1,19 @@
-/* Replace Tailwind CSS classes with regular CSS */
 
-/* For the main container */
+
+
 .p-4 {
     padding: 1rem;
   }
   
-  /* For the title */
+
   .text-3xl {
     font-size: 1.875rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
   }
   
-  /* For the spinner */
-  /* You can add your spinner styles here */
   
-  /* For the form container */
+
   .flex-col {
     display: flex;
     flex-direction: column;
@@ -56,5 +54,5 @@
     background-color: #c53030; /* Replace with your desired button hover color */
   }
   
-  /* You can add more styles or adjust existing ones based on your design preferences */
+
   
